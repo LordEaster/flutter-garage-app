@@ -1,1 +1,3 @@
-# flutter-garage-app
+# garage_app
+
+A new Flutter project.
